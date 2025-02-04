@@ -1,4 +1,4 @@
-:: Sebastian Januchowski::polsotf.ITS London
+:: Sebastian Januchowski
 
 
 :: Quick Panel 1.0 Script
